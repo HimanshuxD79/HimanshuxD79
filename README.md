@@ -4,7 +4,7 @@
 ## I'm a Himanshu,I enjoy working on Web Development
 
 - 🔭 Currently a Student at NIT Hamirpur
-- 🌱 I’m currently learning FullStack Web Development 🤣
+- 🌱 I’m currently learning FullStack Web Development 
 - 👯 I’m looking to work React or Django based projects
 - 🥅 2022 Goals: Explore More  about Web-D.
 - ⚡ Fun fact: I love to watch anime
