@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/74CXkLC.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">Passionate Full Stack Developer | Hailing From India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/042fe9_df8f7c0904e9416c8fbd5356293dd2ac~mv2.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxd79&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuxd79" /> </p>
 
