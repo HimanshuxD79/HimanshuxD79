@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **himanshudiwan.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vrChhwD2_IOY2yWyBuhYLIxnCtDS9RFB/view?usp=sharing](https://drive.google.com/file/d/1vrChhwD2_IOY2yWyBuhYLIxnCtDS9RFB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vrChhwD2_IOY2yWyBuhYLIxnCtDS9RFB/view?usp=sharing)
 
 - ⚡ Fun fact **Thanos was Right!**
 
