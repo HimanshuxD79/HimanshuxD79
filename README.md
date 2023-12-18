@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design,GoLang,AWS,DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2023-khaki.vercel.app/](https://portfolio2023-khaki.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio2023-khaki.vercel.app/)
 
 - 💬 Ask me about **Python,Django,Reactjs,UI/UX**
 
