@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-104639200/" target="blank"><img align="center" src="https://i.imgur.com/7v08J8k.png" alt="https://www.linkedin.com/in/himanshu-104639200/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17799520/himanshu" target="blank"><img align="center" src="https://i.imgur.com/SHXJSug.png" alt="https://stackoverflow.com/users/17799520/himanshu" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/hashmaps" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="hashmaps" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Himanshu_079" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="hashmaps" height="30" width="40" /></a>
 
 </p>
 
