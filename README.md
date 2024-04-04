@@ -46,9 +46,5 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuxd79&show_icons=true&locale=en&layout=compact" alt="himanshuxd79" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuxd79&show_icons=true&locale=en" alt="himanshuxd79" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuxd79&" alt="himanshuxd79" /></p>
 
