@@ -80,7 +80,7 @@ const currentlyWorkingOn = {
 <div align="center">
 
 **📧** himanshud.workmail@gmail.com  
-**💼** [LinkedIn](https://linkedin.com/in/your-profile) **|** **⚡** [LeetCode](https://leetcode.com/your-username) **|** **🔗** [Portfolio](https://your-portfolio.com)
+**💼** [LinkedIn](https://www.linkedin.com/in/himanshudiwaan/) **|** **⚡** [LeetCode](https://leetcode.com/u/Himanshu_079/) **|** **🔗** [Portfolio](https://himanshu-dev-jet.vercel.app/)
 
 </div>
 
